@@ -18,4 +18,7 @@ Works on any system with bash and fping installed.
 Typical Usage:
 ./fastnetscan.sh 192.168.1.*
 
+To Install:
+curl -fsSL https://raw.githubusercontent.com/rompelhd/FastNetScan/refs/heads/main/src/install.sh | bash
+
 Remember to use this script/software in a controlled environment. We are not responsible for any incidents. You are solely responsible.
